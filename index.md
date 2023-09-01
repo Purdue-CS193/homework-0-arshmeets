@@ -23,14 +23,13 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-## Some things I love about CS 192:
+[Link](url) and ![Image](src)
+```
+_## Some things I love about CS 192:_
 - The class is great
 - The teachers/students are chill
 - The quizzes are easy to get right
-- The class is great to learn the CS tools that I will most likely be using
-
-[Link](url) and ![Image](src)
-```
+- The class is excellent for learning the CS tools that I will most likely be using
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
