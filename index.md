@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. Fart
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -22,6 +22,12 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+# Some things I love about CS 192:
+- The class is great
+- The teachers/students are chill
+- The quizzes are easy to get
+- The class is informative of the CS tools that I will most likely be using
 
 [Link](url) and ![Image](src)
 ```
