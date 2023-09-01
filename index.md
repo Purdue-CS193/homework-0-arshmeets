@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-_## Some things I love about CS 192:_
+## Some things I love about CS 192:
 - The class is great
 - The teachers/students are chill
 - The quizzes are easy to get right
