@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Arshmeet Sodhi's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-# Some things I love about CS 192:
+## Some things I love about CS 192:
 - The class is great
 - The teachers/students are chill
 - The quizzes are easy to get right
