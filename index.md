@@ -26,8 +26,8 @@ Syntax highlighted code block
 # Some things I love about CS 192:
 - The class is great
 - The teachers/students are chill
-- The quizzes are easy to get
-- The class is informative of the CS tools that I will most likely be using
+- The quizzes are easy to get right
+- The class is great to learn the CS tools that I will most likely be using
 
 [Link](url) and ![Image](src)
 ```
